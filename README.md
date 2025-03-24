@@ -1,2 +1,2 @@
-# Project---Meteorological-Station-C1B-
-Contents of the evidence from my work completed on the project for the "Electronic Instrumentation" course in the Electronic Engineering program at UIS.
+# Proyecto-Estación-Meteorológica-C1B-(2023-1)
+Contenido de las evidencias de mi trabajo realizado en el proyecto de la asignatura "Instrumentación Electrónica" de la carrera de Ingeniería Electrónica de la UIS en el semestre 2023-1.
